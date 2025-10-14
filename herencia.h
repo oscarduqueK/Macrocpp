@@ -12,7 +12,7 @@ public:
 
 	void DecirlaCosa() 
 	{
-		std::cout << "Paquito grita: ¡LA COSAAA!" << std::endl;
+		std::cout << "Paquito esta gritando: ¡LA COSAAA!" << std::endl;
 	}
 };
 
@@ -54,5 +54,4 @@ void Aula() {
 	for (aula* numero : lista) {
 		numero->DecirlaCosa();
 	}
-
 }
