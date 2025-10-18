@@ -19,6 +19,9 @@
     <Filter Include="software">
       <UniqueIdentifier>{b75877e7-6d59-4255-bddf-a88bf0f180d8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="General">
+      <UniqueIdentifier>{7e9da49b-0295-4c76-ade6-088c32701a05}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -28,6 +31,9 @@
   <ItemGroup>
     <ClInclude Include="herencia.h">
       <Filter>software</Filter>
+    </ClInclude>
+    <ClInclude Include="Mister.h">
+      <Filter>General</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
