@@ -1,2 +1,3 @@
 ﻿  main.cpp
+D:\DOCUMENTOS ------\Enti\2o\Macrocpp\files1.h(17,1): warning C4715: 'WorkInFile::CheckFileOpened': no todas las rutas de acceso de control devuelven un valor
   Macrocpp.vcxproj -> D:\DOCUMENTOS ------\Enti\2o\Macrocpp\x64\Debug\Macrocpp.exe

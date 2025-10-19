@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{965ACBFA-6FA9-4DCC-B8EA-74AF76437B04}|Macrocpp.vcxproj|D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\Mister.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{965ACBFA-6FA9-4DCC-B8EA-74AF76437B04}|Macrocpp.vcxproj|solutionrelative:Mister.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{965ACBFA-6FA9-4DCC-B8EA-74AF76437B04}|Macrocpp.vcxproj|D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\herencia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{965ACBFA-6FA9-4DCC-B8EA-74AF76437B04}|Macrocpp.vcxproj|solutionrelative:herencia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965ACBFA-6FA9-4DCC-B8EA-74AF76437B04}|Macrocpp.vcxproj|D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\files1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{965ACBFA-6FA9-4DCC-B8EA-74AF76437B04}|Macrocpp.vcxproj|solutionrelative:files1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{965ACBFA-6FA9-4DCC-B8EA-74AF76437B04}|Macrocpp.vcxproj|D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{965ACBFA-6FA9-4DCC-B8EA-74AF76437B04}|Macrocpp.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{965ACBFA-6FA9-4DCC-B8EA-74AF76437B04}|Macrocpp.vcxproj|D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\herencia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{965ACBFA-6FA9-4DCC-B8EA-74AF76437B04}|Macrocpp.vcxproj|solutionrelative:herencia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{965ACBFA-6FA9-4DCC-B8EA-74AF76437B04}|Macrocpp.vcxproj|D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\Mister.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{965ACBFA-6FA9-4DCC-B8EA-74AF76437B04}|Macrocpp.vcxproj|solutionrelative:Mister.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +25,7 @@
       "VerticalTabListWidth": 173,
       "DocumentGroups": [
         {
-          "DockedWidth": 238,
+          "DockedWidth": 415,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -34,45 +38,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "files1.h",
+              "DocumentMoniker": "D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\files1.h",
+              "RelativeDocumentMoniker": "files1.h",
+              "ToolTip": "D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\files1.h",
+              "RelativeToolTip": "files1.h",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-19T17:02:55.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Mister.h",
               "DocumentMoniker": "D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\Mister.h",
               "RelativeDocumentMoniker": "Mister.h",
               "ToolTip": "D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\Mister.h",
               "RelativeToolTip": "Mister.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-18T20:50:07.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "herencia.h",
-              "DocumentMoniker": "D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\herencia.h",
-              "RelativeDocumentMoniker": "herencia.h",
-              "ToolTip": "D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\herencia.h",
-              "RelativeToolTip": "herencia.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-13T20:41:46.42Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 162,
+          "DockedWidth": 301,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "herencia.h",
+              "DocumentMoniker": "D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\herencia.h",
+              "RelativeDocumentMoniker": "herencia.h",
+              "ToolTip": "D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\herencia.h",
+              "RelativeToolTip": "herencia.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-13T20:41:46.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "D:\\DOCUMENTOS ------\\Enti\\2o\\Macrocpp\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-13T20:23:59.099Z",
               "EditorCaption": ""

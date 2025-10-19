@@ -35,5 +35,8 @@
     <ClInclude Include="Mister.h">
       <Filter>General</Filter>
     </ClInclude>
+    <ClInclude Include="files1.h">
+      <Filter>software</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,0 +1,3 @@
+Nigga
+igga
+creo que poniendo texto en diferentes filas del cpp, hace que se ponga en diferentes lineas del archivo

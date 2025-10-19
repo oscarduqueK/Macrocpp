@@ -5,6 +5,7 @@
 //ARCHIVOS
 #include "herencia.h"
 #include "Mister.h"
+#include "files1.h"
 
 
 void FunctionSelector(int exampleused) 
@@ -22,9 +23,15 @@ void FunctionSelector(int exampleused)
 		//Archivo de "Mister.h"
 		std::cout << std::endl;
 		break;
+	case 3:
+		CheckFile(); //Funcion para trabajar con archivos
+		//Archivo de "files.1"
+		std::cout << std::endl;
+		break;
+		
 
 	default:
-		std::cout << "No hay un indice de función válido seleccionado" << std::endl;
+		std::cout << "No hay un indice de funcion valido seleccionado" << std::endl;
 		return;
 	}
 	
@@ -36,6 +43,6 @@ void FunctionSelector(int exampleused)
 int main() 
 {
 	std::cout << "LO FUNCION \n" << std::endl;
-	int exampleUsed = 2;
+	int exampleUsed = 3;
 	FunctionSelector(exampleUsed); 
 }
